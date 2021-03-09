@@ -1,0 +1,27 @@
+{
+  "name": "repositoriolocal",
+  "version": "1.0.0",
+  "description": "Primer proyecto utilizando Node js",
+  "main": "indec.html\u001b[D\u001b[D\u001b[D\u001b[D\u001b[x\u001b[F\u001b[B\u001b[F\u001b[B\u001b[C\u001b[1;5C\u001b[1;5C\u001b[1;5C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[D",
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://yefersonvelandia@bitbucket.org/yefersonvelandia/repositoriolocal.git"
+  },
+  "author": "Yeferson Velandia",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/yefersonvelandia/repositoriolocal#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "gs": "0.0.2",
+    "jquery": "^3.6.0",
+    "open-iconic": "^1.1.1",
+    "popper.js": "^1.16.1"
+  }
+}
